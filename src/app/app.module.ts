@@ -11,9 +11,10 @@ import {
   MatSortModule,
   MatIconModule
 } from '@angular/material';
+import { FormsComponent } from './forms/forms.component';
 
 @NgModule({
-  declarations: [AppComponent, DataTableComponent],
+  declarations: [AppComponent, DataTableComponent, FormsComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
