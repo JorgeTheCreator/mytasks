@@ -1,0 +1,19 @@
+.full-width-table {
+  width: 100%;
+  background-color: #64b5f6;
+}
+.mat-paginator {
+  background-color: #1e88e5;
+}
+mat-icon {
+  padding-left: 4%;
+}
+.mat-icon.mat-warn {
+  color: #766e98 !important;
+}
+.mat-icon.mat-accent {
+  color: #bd6b3785 !important;
+}
+.mat-icon {
+  color: #0080005c !important;
+}

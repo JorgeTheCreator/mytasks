@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "quoteType": "AYR",
+    "task": "DYC-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 2,
+    "quoteType": "EYR",
+    "task": "DYA-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 3,
+    "quoteType": "FYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 4,
+    "quoteType": "GYR",
+    "task": "DYB-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 5,
+    "quoteType": "HYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 6,
+    "quoteType": "IYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 7,
+    "quoteType": "JYR",
+    "task": "DYX-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 8,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 9,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 10,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 11,
+    "quoteType": "DYR",
+    "task": "DYY-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 12,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 13,
+    "quoteType": "DYR",
+    "task": "DYH-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 14,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 15,
+    "quoteType": "DYR",
+    "task": "DYW-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 16,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 17,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 18,
+    "quoteType": "DYU",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 19,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 20,
+    "quoteType": "DYR",
+    "task": "DYD-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 21,
+    "quoteType": "DYR",
+    "task": "DYE-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 22,
+    "quoteType": "DYR",
+    "task": "DYF-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 23,
+    "quoteType": "DYR",
+    "task": "DYG-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 24,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 25,
+    "quoteType": "DYJ",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 26,
+    "quoteType": "DYK",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 27,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 28,
+    "quoteType": "DYL",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 29,
+    "quoteType": "DYI",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 30,
+    "quoteType": "DYJ",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 31,
+    "quoteType": "DYR",
+    "task": "DYI-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 32,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 33,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 34,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 35,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 36,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 37,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 38,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 39,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 40,
+    "quoteType": "MYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 41,
+    "quoteType": "ZYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 42,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 43,
+    "quoteType": "UYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 44,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 45,
+    "quoteType": "CYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 46,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 47,
+    "quoteType": "BYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 48,
+    "quoteType": "AYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 49,
+    "quoteType": "RYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 50,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 51,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  },
+  {
+    "id": 52,
+    "quoteType": "DYR",
+    "task": "DYR-Quote ID 145, Due Date Dec 23 2015,Customer-Summitork Technologies Inc.",
+    "dueDate": "12/23/2015 10:28am",
+    "taskType": "Follow-up"
+  }
+]
