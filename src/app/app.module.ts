@@ -9,9 +9,13 @@ import {
   MatTableModule,
   MatPaginatorModule,
   MatSortModule,
-  MatIconModule
+  MatIconModule,
+  MatOptionModule,
+  MatSelectModule,
+  MatInputModule
 } from '@angular/material';
 import { FormsComponent } from './forms/forms.component';
+import { MatFormFieldModule } from '@angular/material/form-field';
 
 @NgModule({
   declarations: [AppComponent, DataTableComponent, FormsComponent],
@@ -22,7 +26,11 @@ import { FormsComponent } from './forms/forms.component';
     MatTableModule,
     MatPaginatorModule,
     MatSortModule,
-    MatIconModule
+    MatIconModule,
+    MatFormFieldModule,
+    MatOptionModule,
+    MatSelectModule,
+    MatInputModule
   ],
   providers: [],
   bootstrap: [AppComponent]
