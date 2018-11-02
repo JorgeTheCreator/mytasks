@@ -17,3 +17,17 @@ mat-icon {
 .mat-icon {
   color: #0080005c !important;
 }
+.black:hover {
+  background-color: rgba(180, 61, 61, 0.548);
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+  cursor: pointer;
+}
+.icon:hover {
+  cursor: pointer;
+  color: #f30602f7 !important;
+  text-shadow: 2px 2px 4px #000000;
+}

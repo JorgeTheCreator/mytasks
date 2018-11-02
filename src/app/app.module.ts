@@ -16,9 +16,10 @@ import {
 } from '@angular/material';
 import { FormsComponent } from './forms/forms.component';
 import { MatFormFieldModule } from '@angular/material/form-field';
+import { NavbarComponent } from './navbar/navbar.component';
 
 @NgModule({
-  declarations: [AppComponent, DataTableComponent, FormsComponent],
+  declarations: [AppComponent, DataTableComponent, FormsComponent, NavbarComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,

@@ -5,7 +5,7 @@ import { Http } from '@angular/http';
   providedIn: 'root'
 })
 export class ServiceService {
-  private url: string = '../../data.json';
+  private url: string = '../assets/data.json';
   constructor(private _http: Http) {}
   getPost() {
     return this._http.get(this.url);
